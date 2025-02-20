@@ -34,6 +34,6 @@ jobs:
           publish_dir: ./my-website/build
           publish_branch: gh-pages
 
-      - name: 🎉 Afficher le message de succès
-        run: echo "✅ C'est passé chef !"
+      - name: Afficher le message de succès
+        run: echo "C'est passé chef !"
 
